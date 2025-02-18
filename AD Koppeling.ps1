@@ -3,7 +3,7 @@
 
 # Voeg hier je Tenant ID, Client ID en Client Secret in
 $tenantId = ""
-$clientId = "c"
+$clientId = ""
 $clientSecret = ""
 
 # Functie om een authenticatietoken te verkrijgen
